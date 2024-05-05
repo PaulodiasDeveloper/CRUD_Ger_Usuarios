@@ -25,7 +25,8 @@ O gerenciamento de usuários é uma funcionalidade essencial em diversos sistema
 - Spring Boot
 - JPA / Hibernate
 - Maven
-- 
+- Banco de dados H2
+- Postman
 
 ## - DEFINIÇÃO DA ENTIDADE DE USUÁRIOS
 
